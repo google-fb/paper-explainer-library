@@ -4,5 +4,8 @@
   "slide_count": 14,
   "reason": "pages_very_long",
   "html_guess": null,
-  "takeaway": "LLMs can draft high-rated Gherkin from food-safety law, but omissions and hallucinations still require systematic human review."
+  "takeaway": "LLMs can draft high-rated Gherkin from food-safety law, but omissions and hallucinations still require systematic human review.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

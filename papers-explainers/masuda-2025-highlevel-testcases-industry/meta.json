@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "Prompt-only, technique-first generation can produce usable HL tests on some specs, but recall is uneven across documents."
+  "takeaway": "Prompt-only, technique-first generation can produce usable HL tests on some specs, but recall is uneven across documents.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

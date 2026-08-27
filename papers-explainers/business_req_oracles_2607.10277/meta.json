@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "LLMs can draft requirement-level oracles without code, but accuracy is bug-dependent and they model intended spec more than implementation."
+  "takeaway": "LLMs can draft requirement-level oracles without code, but accuracy is bug-dependent and they model intended spec more than implementation.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
