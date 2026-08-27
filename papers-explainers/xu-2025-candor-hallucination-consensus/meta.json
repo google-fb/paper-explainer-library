@@ -4,5 +4,8 @@
   "slide_count": 16,
   "reason": "pages_extra_long",
   "html_guess": null,
-  "takeaway": "Multi-agent consensus can produce full JUnit tests with stronger specification oracles than TOGLL without fine-tuning or EvoSuite."
+  "takeaway": "Multi-agent consensus can produce full JUnit tests with stronger specification oracles than TOGLL without fine-tuning or EvoSuite.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

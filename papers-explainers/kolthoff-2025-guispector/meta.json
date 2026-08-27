@@ -4,5 +4,8 @@
   "slide_count": 8,
   "reason": "pages_short",
   "html_guess": null,
-  "takeaway": "A vision CUA can verify most NL GUI requirements with evidence, but partial matches are harder and each check is still costly."
+  "takeaway": "A vision CUA can verify most NL GUI requirements with evidence, but partial matches are harder and each check is still costly.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
