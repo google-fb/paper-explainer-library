@@ -4,5 +4,8 @@
   "slide_count": 16,
   "reason": "pages_extra_long",
   "html_guess": null,
-  "takeaway": "High exact-match or self-consistency does not make an LLM judge valid; always report κ and position-bias checks."
+  "takeaway": "High exact-match or self-consistency does not make an LLM judge valid; always report κ and position-bias checks.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

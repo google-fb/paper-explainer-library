@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "Execution-feedback multi-agent loops can cut invalid LLM tests and raise coverage versus single-shot generation."
+  "takeaway": "Execution-feedback multi-agent loops can cut invalid LLM tests and raise coverage versus single-shot generation.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

@@ -4,5 +4,8 @@
   "slide_count": 12,
   "reason": "pages_long",
   "html_guess": null,
-  "takeaway": "Feeding mutation feedback into LLM prompts yields much stronger fault-detection tests than coverage-only generation."
+  "takeaway": "Feeding mutation feedback into LLM prompts yields much stronger fault-detection tests than coverage-only generation.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
