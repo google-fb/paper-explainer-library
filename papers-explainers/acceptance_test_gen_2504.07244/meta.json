@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "With tooling and human review, GPT-4 can usefully generate both Gherkin acceptance scenarios and Cypress scripts in an industrial web workflow."
+  "takeaway": "With tooling and human review, GPT-4 can usefully generate both Gherkin acceptance scenarios and Cypress scripts in an industrial web workflow.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

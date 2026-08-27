@@ -1,0 +1,11 @@
+{
+  "slug": "android_noncrash_bugs_2407.19053",
+  "title": "A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Multimodal LLMs can act as broader Android NCF oracles than specialized heuristic tools, but remain noisy and unstable.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
+}
