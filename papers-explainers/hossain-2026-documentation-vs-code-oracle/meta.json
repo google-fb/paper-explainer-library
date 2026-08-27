@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "Strong exception-oracle scores often come from code/test pattern shortcuts, not Javadoc @throws evidence."
+  "takeaway": "Strong exception-oracle scores often come from code/test pattern shortcuts, not Javadoc @throws evidence.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
