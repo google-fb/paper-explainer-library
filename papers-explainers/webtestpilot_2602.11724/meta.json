@@ -4,5 +4,8 @@
   "slide_count": 14,
   "reason": "pages_very_long",
   "html_guess": "papers-reading-html/01-webtestpilot.html",
-  "takeaway": "Symbolizing GUI state lets an agent infer reliable NL-spec oracles and detect real E2E bugs with ~96% precision/recall on the authors’ benchmark."
+  "takeaway": "Symbolizing GUI state lets an agent infer reliable NL-spec oracles and detect real E2E bugs with ~96% precision/recall on the authors’ benchmark.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

@@ -4,5 +4,8 @@
   "slide_count": 12,
   "reason": "pages_long",
   "html_guess": "papers-reading-html/02-webmac.html",
-  "takeaway": "Clarify incomplete NL scenarios and instantiate equivalence classes before generating scripts to raise success and find more web bugs cheaper."
+  "takeaway": "Clarify incomplete NL scenarios and instantiate equivalence classes before generating scripts to raise success and find more web bugs cheaper.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
