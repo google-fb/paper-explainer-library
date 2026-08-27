@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "Issue-targeted mutation plus LLM tests can produce review-accepted hardening tests at industrial scale, even when many tests add no new line coverage."
+  "takeaway": "Issue-targeted mutation plus LLM tests can produce review-accepted hardening tests at industrial scale, even when many tests add no new line coverage.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

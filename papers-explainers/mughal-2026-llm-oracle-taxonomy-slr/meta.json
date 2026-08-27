@@ -4,5 +4,8 @@
   "slide_count": 14,
   "reason": "slr_or_taxonomy",
   "html_guess": null,
-  "takeaway": "Trust an LLM oracle by asking what authority backs the verdict, not by its syntactic form or judge label."
+  "takeaway": "Trust an LLM oracle by asking what authority backs the verdict, not by its syntactic form or judge label.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
