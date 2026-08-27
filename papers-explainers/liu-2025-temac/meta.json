@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": "papers-reading-html/05-temac.html",
-  "takeaway": "Use cheap broad GUI exploration first, then LLM agents with app-specific knowledge to reach deeper, uncovered functionality."
+  "takeaway": "Use cheap broad GUI exploration first, then LLM agents with app-specific knowledge to reach deeper, uncovered functionality.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

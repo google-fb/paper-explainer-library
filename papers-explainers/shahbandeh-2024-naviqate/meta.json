@@ -4,5 +4,8 @@
   "slide_count": 14,
   "reason": "pages_very_long",
   "html_guess": "papers-reading-html/06-naviqate.html",
-  "takeaway": "Functionality-level, multimodal navigation beats task-specific agents like WebCanvas, but success remains below 45%."
+  "takeaway": "Functionality-level, multimodal navigation beats task-specific agents like WebCanvas, but success remains below 45%.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
