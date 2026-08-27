@@ -1,0 +1,8 @@
+{
+  "slug": "acceptance_test_gen_2504.07244",
+  "title": "Acceptance Test Generation with Large Language Models: An Industrial Case Study",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "With tooling and human review, GPT-4 can usefully generate both Gherkin acceptance scenarios and Cypress scripts in an industrial web workflow."
+}

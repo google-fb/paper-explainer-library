@@ -1,0 +1,8 @@
+{
+  "slug": "wang-2025-mutgen",
+  "title": "Mutation-Guided Unit Test Generation with a Large Language Model",
+  "slide_count": 12,
+  "reason": "pages_long",
+  "html_guess": null,
+  "takeaway": "Feeding mutation feedback into LLM prompts yields much stronger fault-detection tests than coverage-only generation."
+}

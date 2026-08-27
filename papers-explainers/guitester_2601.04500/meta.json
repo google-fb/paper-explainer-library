@@ -1,0 +1,8 @@
+{
+  "slug": "guitester_2601.04500",
+  "title": "GUITester: Enabling GUI Agents for Exploratory Defect Discovery",
+  "slide_count": 14,
+  "reason": "pages_very_long",
+  "html_guess": null,
+  "takeaway": "Exploratory GUI testing needs agents that probe for defects instead of bypassing them; GUITester improves F1 but remains far from reliable discovery."
+}

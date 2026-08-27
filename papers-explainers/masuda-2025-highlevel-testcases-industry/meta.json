@@ -1,0 +1,8 @@
+{
+  "slug": "masuda-2025-highlevel-testcases-industry",
+  "title": "Generating High-Level Test Cases from Requirements using LLM: An Industry Study",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Prompt-only, technique-first generation can produce usable HL tests on some specs, but recall is uneven across documents."
+}

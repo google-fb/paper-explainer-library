@@ -1,0 +1,8 @@
+{
+  "slug": "norman-2026-llm-judge-reliability",
+  "title": "Reliability without Validity: A Systematic, Large-Scale Evaluation of LLM-as-a-Judge Models Across Agreement, Consistency, and Bias",
+  "slide_count": 16,
+  "reason": "pages_extra_long",
+  "html_guess": null,
+  "takeaway": "High exact-match or self-consistency does not make an LLM judge valid; always report κ and position-bias checks."
+}

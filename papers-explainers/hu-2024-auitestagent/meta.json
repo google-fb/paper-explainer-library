@@ -1,0 +1,8 @@
+{
+  "slug": "hu-2024-auitestagent",
+  "title": "AUITestAgent: Automatic Requirements Oriented GUI Function Testing",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": "papers-reading-html/07-auitestagent.html",
+  "takeaway": "Requirement-step agents plus delayed multi-view verification can automate mobile GUI function checks at usable accuracy in industry."
+}

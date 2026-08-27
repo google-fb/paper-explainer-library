@@ -1,0 +1,8 @@
+{
+  "slug": "hassani-2025-law-to-gherkin",
+  "title": "From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations",
+  "slide_count": 14,
+  "reason": "pages_very_long",
+  "html_guess": null,
+  "takeaway": "LLMs can draft high-rated Gherkin from food-safety law, but omissions and hallucinations still require systematic human review."
+}

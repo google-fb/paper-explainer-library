@@ -1,0 +1,8 @@
+{
+  "slug": "liu-2025-temac",
+  "title": "Temac: Multi-Agent Collaboration for Automated Web GUI Testing",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": "papers-reading-html/05-temac.html",
+  "takeaway": "Use cheap broad GUI exploration first, then LLM agents with app-specific knowledge to reach deeper, uncovered functionality."
+}

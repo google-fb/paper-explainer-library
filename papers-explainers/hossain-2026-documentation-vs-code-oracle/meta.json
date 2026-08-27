@@ -1,0 +1,8 @@
+{
+  "slug": "hossain-2026-documentation-vs-code-oracle",
+  "title": "Documentation vs. Code Patterns: What Drives LLM-Based Exception Oracle Generation?",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Strong exception-oracle scores often come from code/test pattern shortcuts, not Javadoc @throws evidence."
+}

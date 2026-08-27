@@ -1,0 +1,8 @@
+{
+  "slug": "zhao-2026-coverage-mutation-correlation",
+  "title": "Do Coverage and Mutation Scores of LLM-Generated Test Suites Correlate with Their Effectiveness? (Replicability Study)",
+  "slide_count": 14,
+  "reason": "pages_very_long",
+  "html_guess": null,
+  "takeaway": "Coverage and mutation are useful LLM-test signals only in regression settings with presumably correct code—not when the prompt code may already be buggy."
+}

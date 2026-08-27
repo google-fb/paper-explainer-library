@@ -1,0 +1,8 @@
+{
+  "slug": "mughal-2026-llm-oracle-taxonomy-slr",
+  "title": "LLM-Based Test Oracles: Source-of-Authority Taxonomy—A Systematic Literature Review",
+  "slide_count": 14,
+  "reason": "slr_or_taxonomy",
+  "html_guess": null,
+  "takeaway": "Trust an LLM oracle by asking what authority backs the verdict, not by its syntactic form or judge label."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "kolthoff-2025-guispector",
+  "title": "GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes",
+  "slide_count": 8,
+  "reason": "pages_short",
+  "html_guess": null,
+  "takeaway": "A vision CUA can verify most NL GUI requirements with evidence, but partial matches are harder and each check is still costly."
+}

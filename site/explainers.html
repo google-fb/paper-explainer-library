@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>圖解圖書館 · Tuco 論文改進調查</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="explainers.css">
+</head>
+<body class="library-page">
+  <a class="skip-link" href="#content">跳到本文</a>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="index.html"><span>Tuco</span> 論文改進調查</a>
+      <nav class="site-nav" aria-label="主要">
+        <a href="index.html">首頁</a>
+        <a href="survey.html">調查報告</a>
+        <a href="websites.html">網站調查</a>
+        <a href="citations.html">引用計畫</a>
+        <a href="papers.html">論文筆記</a>
+        <a href="explainers.html" class="is-current" aria-current="page">圖解圖書館</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="library-wrap">
+    <main class="shelf" id="content">
+      <section class="library-hero">
+        <p class="hero-kicker">Grok Imagine · 離線圖解</p>
+        <h1>圖解圖書館</h1>
+        <p class="library-lead">把倉庫裡已生成的論文圖解投影片收成一座靜態書架。封面是第一張幻燈片；點進去進入閱覽室，一次只看一張 16:9 圖解。鍵盤 <kbd>←</kbd> <kbd>→</kbd> 翻頁，<kbd>Esc</kbd> 回到書架。</p>
+      </section>
+
+      <div class="library-toolbar">
+        <div class="library-search">
+          <label for="library-search">搜尋標題</label>
+          <input id="library-search" type="search" placeholder="輸入論文標題、關鍵字或 slug" autocomplete="off">
+        </div>
+        <p class="library-count" id="shelf-count">正在整理書架…</p>
+      </div>
+
+      <noscript>
+        <p class="library-empty">此頁需要瀏覽器執行 JavaScript 才能排列書架。目錄資料在 <a href="explainers-catalog.json">explainers-catalog.json</a>。</p>
+      </noscript>
+      <p class="library-empty" id="shelf-empty" hidden>沒有符合的論文。試試較短的關鍵字，或清空搜尋回到整座書架。</p>
+      <ul class="shelf-grid" id="shelf-grid"></ul>
+    </main>
+
+    <section class="reader" id="reader" aria-label="閱覽室" aria-hidden="true">
+      <div class="reader-desk">
+        <div class="reader-bar">
+          <div class="reader-bar-main">
+            <p class="reader-kicker">閱覽室</p>
+            <h2 class="reader-title" id="reader-title">投影片</h2>
+            <p class="reader-subtitle" id="reader-subtitle"></p>
+          </div>
+          <div class="reader-actions">
+            <p class="reader-notes" id="reader-notes" hidden></p>
+            <p class="reader-counter" id="reader-counter" aria-live="polite">1 / 1</p>
+            <button type="button" class="reader-btn" id="reader-close" data-reader-close aria-label="關閉閱覽室，回到書架">回到書架</button>
+          </div>
+        </div>
+
+        <div class="reader-stage">
+          <button type="button" class="reader-arrow" data-reader-prev aria-label="上一張投影片">‹</button>
+          <figure class="reader-frame">
+            <img id="reader-slide" src="" alt="" width="1600" height="900">
+          </figure>
+          <button type="button" class="reader-arrow" data-reader-next aria-label="下一張投影片">›</button>
+        </div>
+
+        <div class="reader-thumbs" id="reader-thumbs" role="list" aria-label="投影片縮圖列"></div>
+      </div>
+    </section>
+  </div>
+
+  <p class="site-footer">離線靜態站 · 圖解圖書館 · 僅供內部閱讀</p>
+  <a class="back-top" href="#" title="回到頂部" aria-label="回到頂部">↑</a>
+  <script src="explainers-catalog.js"></script>
+  <script src="explainers.js"></script>
+</body>
+</html>

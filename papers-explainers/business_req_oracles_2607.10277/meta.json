@@ -1,0 +1,8 @@
+{
+  "slug": "business_req_oracles_2607.10277",
+  "title": "From Business Requirements to Test Assertions: Evaluating LLM-Generated Oracles on Real Bugs",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "LLMs can draft requirement-level oracles without code, but accuracy is bug-dependent and they model intended spec more than implementation."
+}

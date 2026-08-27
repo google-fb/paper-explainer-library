@@ -1,0 +1,8 @@
+{
+  "slug": "wang-2025-multimodal-acceptance-criteria",
+  "title": "Multi-Modal Requirements Data-based Acceptance Criteria Generation using LLMs",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Grounding AC generation in retrieved text and UI context plus reward polishing yields practitioner-acceptable criteria that plain LLM prompting misses."
+}

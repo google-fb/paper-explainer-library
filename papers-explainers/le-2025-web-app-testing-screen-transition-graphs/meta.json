@@ -1,0 +1,8 @@
+{
+  "slug": "le-2025-web-app-testing-screen-transition-graphs",
+  "title": "Automated Web Application Testing: End-to-End Test Case Generation with Large Language Models and Screen Transition Graphs",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Graph models plus LLMs can generate navigation and form Selenium tests, with GPT-4o strong on simple/real forms but weaker on dynamic forms and coverage."
+}

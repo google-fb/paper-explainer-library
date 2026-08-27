@@ -1,0 +1,8 @@
+{
+  "slug": "ye-2025-ai-agents-web-testing",
+  "title": "AI Agents for Web Testing: A Case Study in the Wild",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "VLM agents that browse like users can find real usability bugs that code-coverage testers miss, shown on 120 live personal sites."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "chevrot-2025-autonomous-web-agents-testers",
+  "title": "Are Autonomous Web Agents Good Testers?",
+  "slide_count": 14,
+  "reason": "pages_very_long",
+  "html_guess": "papers-reading-html/04-pinata-autonomous-web-agents.html",
+  "takeaway": "Web agents can execute NL E2E tests, but even pinATA’s ~60% verdict accuracy is not yet reliable enough to replace scripts or humans."
+}

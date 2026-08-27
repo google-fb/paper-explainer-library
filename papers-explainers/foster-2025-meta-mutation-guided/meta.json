@@ -1,0 +1,8 @@
+{
+  "slug": "foster-2025-meta-mutation-guided",
+  "title": "Mutation-Guided LLM-based Test Generation at Meta",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Issue-targeted mutation plus LLM tests can produce review-accepted hardening tests at industrial scale, even when many tests add no new line coverage."
+}

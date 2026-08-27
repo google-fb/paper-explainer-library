@@ -1,0 +1,8 @@
+{
+  "slug": "wan-2026-webmac",
+  "title": "WebMAC: A Multi-Agent Collaborative Framework for Scenario Testing of Web Systems",
+  "slide_count": 12,
+  "reason": "pages_long",
+  "html_guess": "papers-reading-html/02-webmac.html",
+  "takeaway": "Clarify incomplete NL scenarios and instantiate equivalence classes before generating scripts to raise success and find more web bugs cheaper."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "siddeeq-2026-epic-gherkin",
+  "title": "Epic-Organized vs. Requirement-Aligned Gherkin: An Empirical Evaluation of LLM-Based Acceptance Criteria Generation",
+  "slide_count": 12,
+  "reason": "pages_long",
+  "html_guess": null,
+  "takeaway": "Organizing LLM Gherkin by epics improves expert-perceived quality without losing semantic coverage; lexical metrics can hide that."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "naqvi-2026-rise-of-agentic-testing",
+  "title": "The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": null,
+  "takeaway": "Execution-feedback multi-agent loops can cut invalid LLM tests and raise coverage versus single-shot generation."
+}
