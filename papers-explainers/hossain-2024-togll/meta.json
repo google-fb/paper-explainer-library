@@ -4,5 +4,8 @@
   "slide_count": 12,
   "reason": "pages_long",
   "html_guess": "papers-reading-html/08-togll.html",
-  "takeaway": "Fine-tuned LLMs can generate more correct and stronger Java oracles than TOGA, killing many mutants that EvoSuite regression oracles miss."
+  "takeaway": "Fine-tuned LLMs can generate more correct and stronger Java oracles than TOGA, killing many mutants that EvoSuite regression oracles miss.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

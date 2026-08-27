@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": "papers-reading-html/07-auitestagent.html",
-  "takeaway": "Requirement-step agents plus delayed multi-view verification can automate mobile GUI function checks at usable accuracy in industry."
+  "takeaway": "Requirement-step agents plus delayed multi-view verification can automate mobile GUI function checks at usable accuracy in industry.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

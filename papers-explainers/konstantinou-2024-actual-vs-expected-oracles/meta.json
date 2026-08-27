@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": "papers-reading-html/09-actual-vs-expected-oracles.html",
-  "takeaway": "LLM oracles usually capture what the code does, not what it should do, unless names carry strong intent."
+  "takeaway": "LLM oracles usually capture what the code does, not what it should do, unless names carry strong intent.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
