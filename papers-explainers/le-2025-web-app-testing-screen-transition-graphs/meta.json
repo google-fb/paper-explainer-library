@@ -4,5 +4,8 @@
   "slide_count": 10,
   "reason": "pages_default",
   "html_guess": null,
-  "takeaway": "Graph models plus LLMs can generate navigation and form Selenium tests, with GPT-4o strong on simple/real forms but weaker on dynamic forms and coverage."
+  "takeaway": "Graph models plus LLMs can generate navigation and form Selenium tests, with GPT-4o strong on simple/real forms but weaker on dynamic forms and coverage.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }

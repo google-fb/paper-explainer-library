@@ -1,0 +1,11 @@
+{
+  "slug": "bodicoat-2026-understanding-oracle-gen",
+  "title": "Understanding LLM-Driven Test Oracle Generation",
+  "slide_count": 10,
+  "reason": "pages_default",
+  "html_guess": "papers-reading-html/10-understanding-oracle-gen.html",
+  "takeaway": "For LLM oracles, give class-level context and prefer zero/few-shot prompts over CoT/ToT unless compilation is handled.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
+}

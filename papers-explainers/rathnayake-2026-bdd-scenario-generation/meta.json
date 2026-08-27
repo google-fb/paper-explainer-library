@@ -4,5 +4,8 @@
   "slide_count": 16,
   "reason": "pages_extra_long",
   "html_guess": null,
-  "takeaway": "LLMs can draft BDD scenarios, but quality depends on model, prompt, and giving detailed requirements—not user stories alone."
+  "takeaway": "LLMs can draft BDD scenarios, but quality depends on model, prompt, and giving detailed requirements—not user stories alone.",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
 }
