@@ -1,0 +1,11 @@
+{
+  "slug": "spatiotemporal-composability-2608.25512",
+  "title": "A Programming Paradigm for Spatiotemporal Composability",
+  "slide_count": 16,
+  "reason": "pages_very_long",
+  "html_guess": null,
+  "takeaway": "動態組合要同時做到時間可還原與空間可協調：可還原 effect + 反應式 coeffect，收進統一 context；Cordis 實作，Koishi 驗證，agent harness 是未來工作。",
+  "resolution": "2k",
+  "aspect_ratio": "16:9",
+  "generator": "grok-image-mcp"
+}
